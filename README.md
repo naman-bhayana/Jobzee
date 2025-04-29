@@ -6,29 +6,23 @@
 ---
 ### 📊 **Project PPT**
 You can view and download the full project presentation here:
-[Jobzee Project PPT](assets/Jobzee_Presentation.pptx)
+[Jobzee Project PPT](assets/jobzee_ppt.pptx)
 
 ## 📽️ **Video Explanation**
 Watch a detailed video explaining the features and functionality of Jobzee:
-[![Watch the video](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+[![Watch the video](https://drive.google.com/drive/folders/1AoWjkZ9j0rnU_KfXhPqYKpdMNjOiTyRh)
 
 ## 🖼️ **Poster**
 Here’s a poster showcasing the key aspects of Jobzee:
-![Jobzee Poster](assets/jobzee_poster.png)
+![Jobzee Poster](assets/jobzee_poster.pdf)
 
 ## 📄 **Report**
 You can view and download the full project report here:
-[Jobzee Project Report](assets/Jobzee_Report.pdf)
+[Jobzee Project Report](assets/Report.pdf)
 
-## 🖼️ **Screenshots**
-Here are some screenshots of the Jobzee platform:
+### 🖼️ **Screenshots**
+You can view the detailed screenshots in the full project report. Please refer to the following sections in the report:
 
-1. **Homepage**
-   ![Homepage](assets/screenshot_homepage.png)
-2. **Job Search**
-   ![Job Search](assets/screenshot_job_search.png)
-3. **Profile Management**
-   ![Profile Management](assets/screenshot_profile_management.png)
 ---
 
 ### 🛠️ **Tech Stack**
