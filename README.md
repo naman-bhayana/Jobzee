@@ -1,71 +1,140 @@
-# 💼 Jobzee - MERN Job Consultancy Platform
 
-Jobzee is a full-featured, web-based job consultancy platform developed using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It bridges the gap between job seekers and employers by offering a streamlined, secure, and highly interactive experience.
+# 🚀 Jobzee – Job Consultancy Platform
 
----
-
-## 🚀 Tech Stack
-
-- **MongoDB** – NoSQL database for scalable, flexible data storage
-- **Express.js** – Backend framework for handling APIs and middleware
-- **React.js** – Frontend framework for building dynamic, component-driven UIs
-- **Node.js** – Runtime environment for building scalable server-side applications
-- **Redux** – State management across complex components
-- **JWT & Bcrypt.js** – Secure authentication and user data protection
+**Jobzee** is a full-featured, web-based job consultancy platform built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It bridges the gap between job seekers and employers by offering a **secure, streamlined, and interactive experience**.
 
 ---
 
-## ✨ Features
+### 🛠️ **Tech Stack**
 
-- 🔐 Secure User Authentication (Admin, Recruiter, Candidate)
-- 📝 Resume Upload & Job Applications
-- 📩 Real-time Notifications for Applicants and Recruiters
-- 📊 Recruiter Dashboard for Managing Postings & Applications
-- 🔎 Job Filtering, Sorting, and Search by Category & Location
-- 📂 Admin Panel for User & Role Management
-- 💬 Seamless User Experience & Responsive UI
-
----
-
-
-## ⚙️ Installation & Setup
-
-```bash
-# Clone the repository
-$ git clone https://github.com/yourusername/Jobzee.git
-
-# Install frontend dependencies
-$ cd client
-$ npm install
-
-# Install backend dependencies
-$ cd ../server
-$ npm install
-
-# Run both client and server (you can use concurrently for convenience)
-$ npm run dev
-```
+- **MongoDB** – Scalable NoSQL database for managing job listings, user profiles, and messages.
+- **Express.js** – Backend framework for building RESTful APIs and handling server-side logic.
+- **React.js** – Dynamic frontend with reusable UI components for a seamless user experience.
+- **Node.js** – JavaScript runtime for scalable backend applications.
+- **JWT Authentication** – Secure user login and session management.
+- **Socket.io** – Real-time messaging between job seekers and recruiters.
+- **Axios** – HTTP client for smooth frontend-backend communication.
 
 ---
 
-## 🛡️ Security Features
-- Passwords are hashed using **bcrypt.js**
-- **JWT tokens** for session management
-- Server-side validation for all forms
+### 👨‍💼 **Features for Job Seekers**
+
+- **Profile Management** – Create and manage personal profiles, upload resumes, and track job applications.
+- **Job Search & Filtering** – Search and apply for jobs based on skills, experience, location, and more.
+- **Real-Time Messaging** – Direct communication with employers and recruiters.
+- **Job Recommendations** – Personalized job suggestions tailored to your skills and preferences.
 
 ---
 
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+### 🏢 **Features for Employers**
+
+- **Job Listings** – Post job openings and manage them easily.
+- **Candidate Search** – Search and filter candidate profiles to find the best match.
+- **Real-Time Messaging** – Instant communication with potential candidates.
+- **Advanced Filtering** – Filter candidates by skills, experience, and more.
 
 ---
 
-## 📜 License
-This project is proprietary. Please do not distribute without permission. If this project was developed during an internship, contact the organization before making the code public.
+### 💡 **Why Choose Jobzee?**
+
+Jobzee simplifies the **job search and recruitment process** for both job seekers and employers. With a **clean, user-friendly interface**, **real-time communication**, and **advanced matching algorithms**, Jobzee helps users find the right opportunities or candidates faster and more efficiently.
 
 ---
 
-## 👤 Author
+### 🚀 **Installation Guide**
+
+**Prerequisites:**
+- Node.js  
+- MongoDB (or [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for cloud-hosted database)
+
+#### **Steps to Install:**
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/Jobzee.git
+   cd Jobzee
+   ```
+
+2. **Install dependencies**:
+   - **Backend**:
+     ```bash
+     cd backend
+     npm install
+     ```
+   - **Frontend**:
+     ```bash
+     cd ../frontend
+     npm install
+     ```
+
+3. **Set up environment variables**:
+   - Create a `.env` file in the `/backend` folder with the following content:
+     ```
+     MONGO_URI=your_mongo_connection_string
+     JWT_SECRET=your_jwt_secret
+     PORT=5000
+     ```
+
+4. **Run the application**:
+   - **Backend**:
+     ```bash
+     cd backend
+     npm start
+     ```
+   - **Frontend**:
+     ```bash
+     cd ../frontend
+     npm start
+     ```
+
+   **URLs**:
+   - **Backend**: [http://localhost:5000](http://localhost:5000)
+   - **Frontend**: [http://localhost:3000](http://localhost:3000)
+
+---
+
+### 🤝 **Contributing**
+
+We welcome contributions!  
+To contribute to Jobzee, follow these steps:
+
+1. **Fork** the repository.
+2. **Create a new branch**:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Commit your changes**:
+   ```bash
+   git commit -am 'Add new feature'
+   ```
+4. **Push your changes** to your forked repository:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. **Create a pull request** to the main branch.
+
+---
+
+### 📄 **License**
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+### 👤 **Author**
+
 **Naman Bhayana**  
-📫 [Connect on LinkedIn](https://www.linkedin.com/in/namanbhayana007)  
+🔗 [LinkedIn](https://www.linkedin.com/in/namanbhayana007)  
+🐦 [Twitter](#)
 
+---
+
+### 📑 **Acknowledgements**
+
+- Thanks to the [MERN Stack](https://mern.io/) community for the great tools!
+- [Socket.io](https://socket.io/) for real-time messaging capabilities.
+- [MongoDB](https://www.mongodb.com/) and [Express.js](https://expressjs.com/) for building the backend.
+
+---
+
+Feel free to modify and personalize the repository, and contribute to making Jobzee even better!
