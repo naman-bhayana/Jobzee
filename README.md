@@ -4,6 +4,26 @@
 **Jobzee** is a full-featured, web-based job consultancy platform built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It bridges the gap between job seekers and employers by offering a **secure, streamlined, and interactive experience**.
 
 ---
+## 🖼️ Screenshots
+
+Below are some key screenshots of the Jobzee platform.  
+*(You can also view these in the detailed project report.)*
+
+### 🔐 Login Page
+![Login Page](assets/login_page.png)
+
+### 📊 Dashboard
+![Dashboard](assets/dashboard.png)
+
+### 📝 Post New Job
+![Post New Job](assets/post_new_job.png)
+
+### 📈 Extended Dashboard
+![Extended Dashboard](assets/extended_dashboard.png)
+
+### 📈 Extended Dashboard 2
+![Extended Dashboard 2](assets/extended_dashboard2.png)
+
 ## 📊 **Project PPT**
 You can view and download the full project presentation here:
 [Jobzee Project PPT](assets/jobzee_ppt.pptx)
@@ -12,16 +32,13 @@ You can view and download the full project presentation here:
 Watch a detailed video explaining the features and functionality of Jobzee:
 [Watch the video here](https://drive.google.com/drive/folders/1AoWjkZ9j0rnU_KfXhPqYKpdMNjOiTyRh)
 
-### 🖼️ **Poster**
+## 🖼️ **Poster**
 Here’s a poster showcasing the key aspects of Jobzee:
 [Jobzee Poster](assets/jobzee_poster.pdf)
 
 ## 📄 **Report**
 You can view and download the full project report here:
 [Jobzee Project Report](assets/Report.pdf)
-
-## 🖼️ **Screenshots**
-You can view the detailed screenshots in the full project report. Please refer to the following sections in the report:
 
 ---
 
