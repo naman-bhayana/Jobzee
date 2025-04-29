@@ -10,8 +10,7 @@ You can view and download the full project presentation here:
 
 ## 📽️ **Video Explanation**
 Watch a detailed video explaining the features and functionality of Jobzee:
-[![Watch the video](https://drive.google.com/drive/folders/1AoWjkZ9j0rnU_KfXhPqYKpdMNjOiTyRh)
-
+[Watch the video here](https://drive.google.com/drive/folders/1AoWjkZ9j0rnU_KfXhPqYKpdMNjOiTyRh)
 ## 🖼️ **Poster**
 Here’s a poster showcasing the key aspects of Jobzee:
 ![Jobzee Poster](assets/jobzee_poster.pdf)
