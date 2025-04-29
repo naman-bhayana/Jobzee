@@ -1,5 +1,7 @@
 Jobzee - Job Consultancy Platform 🚀
+
 Jobzee is a full-featured, web-based job consultancy platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It bridges the gap between job seekers and employers by offering a secure, streamlined, and interactive experience.
+
 Tech Stack
 - MongoDB: Scalable NoSQL database for managing job listings, user profiles, and messages.
 - Express.js: Backend framework for routing, API management, and server-side logic.
@@ -68,6 +70,5 @@ We welcome contributions! To contribute to Jobzee, follow these steps:
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 Author
-Your Name
-Connect with me on LinkedIn: [LinkedIn Profile Link]
-Connect with me on Twitter: [Twitter Profile Link]
+Naman Bhayana
+Connect with me on LinkedIn: www.linkedin.com/in/namanbhayana007
