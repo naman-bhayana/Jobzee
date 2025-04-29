@@ -14,7 +14,7 @@ Watch a detailed video explaining the features and functionality of Jobzee:
 
 ### 🖼️ **Poster**
 Here’s a poster showcasing the key aspects of Jobzee:
-[Jobzee Poster](assets/jobzee_poster.png)
+[Jobzee Poster](assets/jobzee_poster.pdf)
 
 ## 📄 **Report**
 You can view and download the full project report here:
