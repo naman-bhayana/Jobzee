@@ -27,26 +27,6 @@ Jobzee is a full-featured, web-based job consultancy platform developed using th
 
 ---
 
-## 📸 Screenshots
-
-*Coming Soon: Include screenshots or a demo GIF of your project UI here.*
-
----
-
-## 📁 Folder Structure
-
-```
-Jobzee/
-├── client/         # React frontend
-│   └── src/
-├── server/         # Node + Express backend
-│   └── routes/
-│   └── controllers/
-│   └── models/
-└── README.md
-```
-
----
 
 ## ⚙️ Installation & Setup
 
