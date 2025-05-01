@@ -1,5 +1,9 @@
 
-# 🚀 Jobzee – Job Consultancy Platform
+# 💼 Jobzee – Job Consultancy Platform
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub issues](https://img.shields.io/github/issues/naman-bhayana/Jobzee)
+![GitHub stars](https://img.shields.io/github/stars/naman-bhayana/Jobzee)
+![GitHub forks](https://img.shields.io/github/forks/naman-bhayana/Jobzee)
 
 **Jobzee** is a full-featured, web-based job consultancy platform built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It bridges the gap between job seekers and employers by offering a **secure, streamlined, and interactive experience**.
 
