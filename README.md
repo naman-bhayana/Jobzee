@@ -11,7 +11,7 @@
 
 ## 📊 **Project PPT**
 You can view and download the full project presentation here:
-[Jobzee Project PPT][(assets/jobzee_ppt.pptx)](https://docs.google.com/presentation/d/1VFy8hgUhqYjd5mZJNNzBKNOvscA7AZ6y/edit?usp=drive_web&ouid=112394308572245650485&rtpof=true)
+(https://docs.google.com/presentation/d/1VFy8hgUhqYjd5mZJNNzBKNOvscA7AZ6y/edit?usp=drive_web&ouid=112394308572245650485&rtpof=true)
 
 ## 📽️ **Video Explanation**
 Watch a detailed video explaining the features and functionality of Jobzee:
